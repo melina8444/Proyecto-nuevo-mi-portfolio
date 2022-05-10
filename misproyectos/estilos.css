@@ -1,0 +1,36 @@
+.container{
+    padding: 40px;
+    background-color: #7fffd4;
+    margin: 150px;
+}
+h2{
+    color: #d2691e;
+    text-align: center;
+    
+}
+
+li{
+    color: #121213;
+}
+
+
+ ol li{
+    /* list-style:none; */
+    text-align: center;
+}
+
+ul li{
+    /* list-style: none; */
+    text-align: center;
+}
+
+.ordenada{
+    background-color: greenyellow;
+    border-radius: 30px;
+    border: 2px solid brown;
+}
+
+.desordenada{
+    background-color: #94c73c;
+    border-style: dashed;
+}
